@@ -1,7 +1,7 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "概要",
+  "specification": "仕様",
+  "manual": "マニュアル",
   "about": {
     "title": "About",
     "type": "page"
